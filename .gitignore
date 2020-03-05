@@ -1,5 +1,4 @@
-/.idea
-/META-INF
-/out
-/src/test
-/test.iml
+/.idea/
+/META-INF/
+/out/
+/target/
